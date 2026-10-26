@@ -4,6 +4,7 @@
 
 **Личный сайт с прудом кои из символов. Рыбы плавают вокруг текста, обходят его стороной, тянутся к курсору и бегут к корму, когда кликаешь по воде. Чистый HTML, CSS и JavaScript: без сборки, без зависимостей, без единой картинки.**
 
+[![Открыть сайт](https://img.shields.io/badge/открыть-boboevproject--rgb.github.io%2Fhavz-d6522f?style=flat-square)](https://boboevproject-rgb.github.io/havz/)
 [![Скачать ZIP](https://img.shields.io/badge/скачать-ZIP-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/boboevproject-rgb/havz/archive/refs/heads/main.zip)
 ![Без сборки](https://img.shields.io/badge/сборка-не_нужна-1f5f6b?style=flat-square)
 ![Vanilla JS](https://img.shields.io/badge/JavaScript-ES_modules-f7df1e?style=flat-square&logo=javascript&logoColor=000)
@@ -16,7 +17,7 @@
 
 </div>
 
-«Хавз» (ҳавз) по-таджикски — пруд.
+«Хавз» (ҳавз) по-таджикски — пруд. Живой сайт: **https://boboevproject-rgb.github.io/havz/** — зайдите и покормите рыб.
 
 ---
 
@@ -107,7 +108,7 @@ python -m http.server 8792
 
 и откройте http://localhost:8792. Подойдёт и `npx serve`, и расширение Live Server в VS Code.
 
-**Хостинг:** папка целиком выкладывается на GitHub Pages (Settings → Pages → ветка `main`, папка `/`), Netlify, Vercel или любой nginx. Сборка не нужна.
+**Хостинг:** папка целиком выкладывается на GitHub Pages (Settings → Pages → ветка `main`, папка `/`), Netlify, Vercel или любой nginx. Сборка не нужна. Этот репозиторий именно так и опубликован: https://boboevproject-rgb.github.io/havz/. Файл `.nojekyll` отключает обработку Jekyll, чтобы Pages отдавал файлы как есть.
 
 ---
 
